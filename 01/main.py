@@ -18,6 +18,5 @@ while not found:
 		knownFrequencies.append(currentFrequency)
 	print(i)
 	
-#print(currentFrequency)
 print(solution)
 input()
